@@ -1,0 +1,13 @@
+.backGroundColorChange{
+    background-image: url('./../../../bg.png');
+    background-color:#3A4256 ;
+    background-size: cover;
+    height: fit-content;
+}
+.translateThis{
+    transform: translateY(-120px);
+    background-size: cover;
+    position: relative;
+    height: 122%;
+    z-index: 1;
+}

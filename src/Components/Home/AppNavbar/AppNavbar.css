@@ -1,0 +1,15 @@
+.navText{
+    font-size: medium;
+    font-weight: 500;
+    color: red;
+    font-family: 'Ubuntu', Tahoma, Geneva, Verdana, sans-serif;
+}
+@media  (min-width: 1000px){
+  .textPrimary{
+        color: white!important;
+
+    }
+    .textPrimary:hover{
+        color:#6c757d;
+    }
+}

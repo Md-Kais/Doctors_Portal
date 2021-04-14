@@ -1,0 +1,12 @@
+
+.bg-split-backgorund{
+    height: 100vh;
+    width: 100vw;
+    /* background-image: url(../../../images/bg.png); */
+    background-image: url('../../../bg.png'),linear-gradient(90deg ,  transparent 70%, #3A4256 30%);
+    /* use the background image and linear gradient partititon: by using  both in a same platform*/
+}
+.mainTextCol{
+    color:#3A4256 ;
+;
+}
